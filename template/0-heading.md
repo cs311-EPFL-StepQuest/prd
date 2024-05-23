@@ -1,4 +1,4 @@
-# MVP PRD: Project Name
+# MVP PRD: StepQuest
 
 *[2024.04.20]*
 
