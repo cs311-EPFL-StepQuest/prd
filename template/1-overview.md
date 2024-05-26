@@ -15,4 +15,4 @@ Moreover, all of these features are connected to a score system: when a user com
 
 
 
-*Maximum: 2 pages*
+*Maximum 2 pages*
