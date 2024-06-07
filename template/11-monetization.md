@@ -16,7 +16,7 @@ Cloud Hosting: Costs for cloud services (e.g., AWS, Google Cloud) including serv
 
 Scaling and Load Balancing: Costs associated with auto-scaling and load balancing to handle peak traffic.
 
-*Security and Compliance*
+Security and Compliance
 
 Data Security: Investment in data encryption, security audits, and compliance with regulations.
 
