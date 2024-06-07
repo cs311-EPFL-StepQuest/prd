@@ -2,12 +2,6 @@
 
 ## Security, privacy, and data retention policies
 
-*Which are the applicable laws and regulations?*
-
-*What are your internal policies?*
-
-*Which privacy features do you need from the phone?*
-
 We will be working with very sensitive data about location and health so we will have to comply to different laws linked to the protection of data.
 
 In Switzerland :
@@ -47,7 +41,7 @@ Background Data Access: Minimize the use of background data collection, and clea
 
 ## Adoptions, Scalability and Availability
 
-*What kind of traffic patterns do you expect to see?*
+These are the traffic patterns we identified :
 
 Daily Usage Peaks: Expect increased traffic during early morning and late evening hours when users are most likely to check their step counts and engage with the app’s features.
 
@@ -55,7 +49,7 @@ Weekly Peaks: Higher traffic on weekends as users participate in challenges and 
 
 Event-Driven Spikes: Anticipate spikes in traffic during special events, challenges, or promotions.
 
-*Are there known periods of bursty traffic that the MVP must be designed to support?*
+Periods of bursty traffic we identified :
 
 Challenge Deadlines: Increased activity towards the end of challenge periods as users try to complete their goals.
 
@@ -63,7 +57,7 @@ Seasonal Trends: Higher usage during certain seasons, such as summer and new yea
 
 Marketing Campaigns: Traffic surges following marketing campaigns, app updates, or collaborations with renowned IPs.
 
-*Scalability and Availability*
+Scalability and Availability :
 
 Cloud Infrastructure: Use scalable cloud infrastructure (e.g., AWS, Google Cloud) to handle varying traffic loads and ensure high availability.
 

@@ -2,7 +2,7 @@
 
 ## Personas and Scenarios
 
-*Who are the target personas for this product?*
+Target personas :
 
 Casual Exercisers: People who exercise occasionally and are looking for motivation to increase their activity levels.
 
@@ -12,19 +12,13 @@ Health Enthusiasts: Individuals who are already engaged in maintaining a healthy
 
 Social Butterflies: Users who enjoy connecting with friends and participating in social challenges to stay active and engaged.
 
-*Which is the key persona?*
-
 The Casual Exerciser is the key persona. This individual represents the majority of potential users who need motivation to increase their activity levels and can benefit most from the gamified and social features of StepQuest.
-
-*High-level scenarios to adopt, use and share the product.*
 
 Adoption: A casual exerciser downloads StepQuest after hearing about it from a friend or seeing an ad. They set up their profile and can explore the app's features.
 Usage: They start with daily step goals, gradually increasing their activity. They participate in weekly challenges and explore local routes suggested by the app. They enjoy earning points and seeing their progress on leaderboards.
 Sharing: The user invites friends to join StepQuest, competes with them in challenges, and shares achievements on social media. The social interactions and friendly competition keep them engaged and motivated.
 
 ## User Stories and Key Features
-
-*User stories about how various personas will use the product in context.*
 
 As a casual exerciser, I want to set daily and weekly step goals so that I can gradually increase my activity levels.
 
@@ -34,7 +28,7 @@ As a sedentary individual, I want to participate in fun challenges so that I hav
 
 As a social butterfly, I want to connect with friends and participate in social challenges so that we can motivate each other.
 
-*Identify and prioritise the key features required.*
+The key features we deemed necessary to have : 
 
 Step Goals and Tracking: Users can set and track daily and weekly step goals. This feature is fundamental for motivating users to increase their activity levels.
 
@@ -48,17 +42,9 @@ Points and Rewards System: Users earn points for completing goals, challenges, a
 
 Social Features: Friend system for adding and interacting with friends, participating in group challenges, and sharing achievements. Social interactions increase user engagement and motivation.
 
-*Justify the importance of each feature.*
-
 Each feature addresses a specific need or motivation for different personas, ensuring that the app is engaging and useful for a broad audience. The step goals and tracking feature provide immediate feedback and a sense of accomplishment. Challenges and leaderboards introduce competition and social interaction, while the route creation feature adds variety and exploration. The points and rewards system gamifies the experience, making it more engaging and fun.
 
 ## Success Criteria
-
-*How will you evaluate the success of the MVP?*
-
-*Metrics include user penetration, quality / satisfaction.*
-
-*If applicable, progress in discussions with ecosystem partners / investors / customers.*
 
 User Penetration: Number of downloads and active users over time. High user penetration indicates that the app is appealing and reaching its target audience.
 
@@ -73,12 +59,6 @@ Progress in Ecosystem Partnerships: Discussions and agreements with potential pa
 Association with Renowned IPs: Partnerships with well-known intellectual properties (IPs) to enhance the app's visibility and profitability. Collaborations with popular brands, franchises, or influencers can attract a broader audience, increase user engagement, and create additional revenue streams through co-branded challenges, events, and merchandise.
 
 ## Features Outside the Scope
-
-*The MVP must be viable and minimal.*
-
-*Which features don’t belong in it.*
-
-*How should these be eventually integrated and in what sequence.*
 
 Advanced Customization of Challenges: Customization options for challenges beyond basic settings.
 

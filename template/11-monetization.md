@@ -1,8 +1,8 @@
 # Business Model
 
-*Expected operating Costs*
+Expected operating Costs
 
-*Development Costs*
+Development Costs
 
 Initial Development: Costs associated with developing the app, including salaries for developers, designers, and project managers.
 
@@ -10,7 +10,7 @@ Ongoing Maintenance: Regular updates, bug fixes, and new feature development.
 
 Third-Party Services: Integration with third-party services (e.g., Google Maps, Firebase).
 
-*Infrastructure Costs*
+Infrastructure Costs
 
 Cloud Hosting: Costs for cloud services (e.g., AWS, Google Cloud) including servers, databases, storage, and network usage.
 
@@ -22,7 +22,7 @@ Data Security: Investment in data encryption, security audits, and compliance wi
 
 Compliance Costs: Costs related to ensuring compliance with data protection laws in Switzerland, Europe, and globally (e.g., GDPR, CCPA).
 
-*Operational Costs*
+Operational Costs
 
 Support and Maintenance: Customer support, server maintenance, and operational staff.
 
@@ -30,7 +30,7 @@ Office Space: Rent and utilities for physical office space if required.
 
 Tools and Software: Licenses for development tools, productivity software, and other necessary tools.
 
-*Marketing and User Acquisition*
+Marketing and User Acquisition
 
 Digital Marketing: Costs for online marketing campaigns (e.g., Google Ads, social media ads).
 
@@ -38,9 +38,7 @@ Content Creation: Expenses for creating promotional content, videos, and other m
 
 Events and Partnerships: Costs associated with attending industry events, collaborating with influencers, and forming strategic partnerships.
 
-*Revenue Streams*
-
-We can apply different model of monetization but need to be very careful about how we introduce them in the app environement
+For monetization, We can apply different model of monetization but need to be very careful about how we introduce them in the app environement
 
 We can base our app on a Freemium Model with basic features available for free to attract a wide user base and offer a subscription plan that provides access to advanced features, such as customizable challenges, advanced analytics, and exclusive content.
 This approach can lead to a wide range of users by offering essential features for free but will have a small percentage of free users that may convert to paid subscriptions. And finding the balance between a generous free plan and a compelling premium plan can get very challenging.
